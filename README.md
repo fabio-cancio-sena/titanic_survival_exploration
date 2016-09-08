@@ -1,7 +1,3 @@
-# titanic_survival_exploration
-Machine Learning Nanodree - Project 0
-
-
 # Machine Learning Engineer Nanodegree
 ## Introduction and Foundations
 ## Project 0: Titanic Survival Exploration
